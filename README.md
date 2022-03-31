@@ -1,7 +1,7 @@
 # AspTest
 1.环境配置
 
-安装clingo软件，下载地址：github.com/potassco/clingo/releases。
+安装clingo软件，下载地址：github.com/potassco/clingo/releases。请下载5.4版本及以上。
 
 在本地电脑D盘新建目录，命名为clingo，请注意按此规范进行命名，否则程序会出现异常。
 
